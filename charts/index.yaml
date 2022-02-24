@@ -3,13 +3,24 @@ entries:
   placement-policy-scheduler-plugins:
   - apiVersion: v2
     appVersion: v0.1.0
-    created: "2022-01-14T21:09:48.94389065Z"
+    created: "2022-02-24T23:39:31.125722017Z"
+    description: A Helm chart for Kubernetes placement policy scheduler plugins
+    digest: 31aa0e05dd81451b44300ecd6f43c0912af9f52b93cceea69a297c9fd1cf2e7a
+    kubeVersion: <=1.22.2
+    name: placement-policy-scheduler-plugins
+    type: application
+    urls:
+    - https://aramase.github.io/placement-policy-scheduler-plugins/charts/placement-policy-scheduler-plugins-0.1.1.tgz
+    version: 0.1.1
+  - apiVersion: v2
+    appVersion: v0.1.0
+    created: "2022-02-24T23:39:31.125296926Z"
     description: A Helm chart for Kubernetes placement policy scheduler plugins
     digest: 96bd70c91acc6222378a2c3e6a45b5862899d83ae973b8566ce68f5c5b40eda5
     kubeVersion: <=1.22.2
     name: placement-policy-scheduler-plugins
     type: application
     urls:
-    - https://Azure.github.io/placement-policy-scheduler-plugins/charts/placement-policy-scheduler-plugins-0.1.0.tgz
+    - https://aramase.github.io/placement-policy-scheduler-plugins/charts/placement-policy-scheduler-plugins-0.1.0.tgz
     version: 0.1.0
-generated: "2022-01-14T21:09:48.943321047Z"
+generated: "2022-02-24T23:39:31.124310546Z"
